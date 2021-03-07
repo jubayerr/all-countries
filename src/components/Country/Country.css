@@ -1,0 +1,26 @@
+.countries-container {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.countries-container img {
+    height: 80px;
+    border-radius: 5px;
+}
+
+.countries-container h2 {
+    color: darkslateblue;
+}
+
+.countries-container button {
+    color: #000050;
+    background-color: silver;
+    border: 1px solid silver;
+    padding: 8px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.countries-container button:hover {
+    border: 1px solid black;
+}
